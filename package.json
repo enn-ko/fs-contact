@@ -2,7 +2,7 @@
   "name": "contants",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://enn-ko.gihub.io/fs-contact",
+  "homepage": "https://enn-ko.github.io/fs-contact",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
